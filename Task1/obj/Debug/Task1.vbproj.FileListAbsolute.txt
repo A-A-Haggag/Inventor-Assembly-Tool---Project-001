@@ -1,0 +1,48 @@
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\bin\Debug\Task1.xml
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.Resources.resources
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.vbproj.GenerateResource.cache
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.vbproj.CoreCompileInputs.cache
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.xml
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\This-PC\Desktop\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.vbproj.AssemblyReference.cache
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.Form1.resources
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.Resources.resources
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.vbproj.GenerateResource.cache
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.vbproj.CoreCompileInputs.cache
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.vbproj.AssemblyReference.cache
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.Form2.resources
+G:\Ahmed work\Tasks\Task1\Task1\bin\Debug\Enerfac Inventor Assembley Tool.exe.config
+G:\Ahmed work\Tasks\Task1\Task1\bin\Debug\Enerfac Inventor Assembley Tool.exe
+G:\Ahmed work\Tasks\Task1\Task1\bin\Debug\Enerfac Inventor Assembley Tool.pdb
+G:\Ahmed work\Tasks\Task1\Task1\bin\Debug\Enerfac Inventor Assembley Tool.xml
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Enerfac Inventor Assembley Tool.exe
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Enerfac Inventor Assembley Tool.xml
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Enerfac Inventor Assembley Tool.pdb
+G:\Ahmed work\Tasks\Task1\Task1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\Ahmed work\Tasks\Task1\Task1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Task1.vbproj.CopyComplete
+G:\Ahmed work\Tasks\Task1\Task1\obj\Debug\Enerfac Inventor Assembley Tool.exe.licenses
+G:\Ahmed work\Tasks\Task1\Task1\bin\Debug\MetroFramework.dll
+G:\Projects\Project 001\Task1\bin\Debug\Enerfac Inventor Assembley Tool.exe.config
+G:\Projects\Project 001\Task1\bin\Debug\Enerfac Inventor Assembley Tool.exe
+G:\Projects\Project 001\Task1\bin\Debug\Enerfac Inventor Assembley Tool.pdb
+G:\Projects\Project 001\Task1\bin\Debug\Enerfac Inventor Assembley Tool.xml
+G:\Projects\Project 001\Task1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\Projects\Project 001\Task1\bin\Debug\MetroFramework.dll
+G:\Projects\Project 001\Task1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\Projects\Project 001\Task1\obj\Debug\Task1.vbproj.AssemblyReference.cache
+G:\Projects\Project 001\Task1\obj\Debug\Task1.Form1.resources
+G:\Projects\Project 001\Task1\obj\Debug\Task1.Form2.resources
+G:\Projects\Project 001\Task1\obj\Debug\Task1.Resources.resources
+G:\Projects\Project 001\Task1\obj\Debug\Task1.vbproj.GenerateResource.cache
+G:\Projects\Project 001\Task1\obj\Debug\Enerfac Inventor Assembley Tool.exe.licenses
+G:\Projects\Project 001\Task1\obj\Debug\Task1.vbproj.CoreCompileInputs.cache
+G:\Projects\Project 001\Task1\obj\Debug\Task1.vbproj.CopyComplete
+G:\Projects\Project 001\Task1\obj\Debug\Enerfac Inventor Assembley Tool.exe
+G:\Projects\Project 001\Task1\obj\Debug\Enerfac Inventor Assembley Tool.xml
+G:\Projects\Project 001\Task1\obj\Debug\Enerfac Inventor Assembley Tool.pdb
