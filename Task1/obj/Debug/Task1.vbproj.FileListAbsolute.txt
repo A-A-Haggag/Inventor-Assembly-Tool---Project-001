@@ -46,3 +46,19 @@ G:\Projects\Project 001\Task1\obj\Debug\Task1.vbproj.CopyComplete
 G:\Projects\Project 001\Task1\obj\Debug\Enerfac Inventor Assembley Tool.exe
 G:\Projects\Project 001\Task1\obj\Debug\Enerfac Inventor Assembley Tool.xml
 G:\Projects\Project 001\Task1\obj\Debug\Enerfac Inventor Assembley Tool.pdb
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\bin\Debug\Enerfac Inventor Assembley Tool.exe.config
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\bin\Debug\Enerfac Inventor Assembley Tool.exe
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\bin\Debug\Enerfac Inventor Assembley Tool.pdb
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\bin\Debug\Enerfac Inventor Assembley Tool.xml
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Task1.vbproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Task1.Form2.resources
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Task1.Resources.resources
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Task1.vbproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Enerfac Inventor Assembley Tool.exe.licenses
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Task1.vbproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Task1.vbproj.CopyComplete
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Enerfac Inventor Assembley Tool.exe
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Enerfac Inventor Assembley Tool.xml
+C:\Users\Ahmed\source\repos\Inventor Assembley Tool\Task1\obj\Debug\Enerfac Inventor Assembley Tool.pdb

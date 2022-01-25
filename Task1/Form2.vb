@@ -1,5 +1,5 @@
-﻿Imports Inventor
-Imports System.Runtime.InteropServices
+﻿Imports System.Runtime.InteropServices
+Imports Inventor
 
 Public Class Form2
 
@@ -8,14 +8,12 @@ Public Class Form2
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             ''MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
 
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
-
 
         Dim selpart As ComponentOccurrence
         Dim part As PartDocument
@@ -30,7 +28,6 @@ Public Class Form2
         'customProp = customPropSet.Item("testz")
         ' Display the value of the iProperty.
         'MsgBox("Sample1 = " & customProp.Value)
-
 
         If ComboBox1.Text = ("Text") Then
             Dim textValue As String
@@ -50,14 +47,12 @@ Public Class Form2
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             ''MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
 
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
-
 
         Dim selpart As ComponentOccurrence
         Dim part As PartDocument
@@ -75,14 +70,12 @@ Public Class Form2
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             ''MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
 
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
-
 
         Dim selpart As ComponentOccurrence
         Dim part As PartDocument
@@ -100,8 +93,6 @@ Public Class Form2
         ' Update the document.
         inventorApp.ActiveDocument.Update()
 
-
-
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs)
@@ -109,14 +100,12 @@ Public Class Form2
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             ''MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
 
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
-
 
         Dim selpart As ComponentOccurrence
         Dim part As String
@@ -133,14 +122,12 @@ Public Class Form2
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             ''MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
 
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
-
 
         Dim selpart As ComponentOccurrence
         Dim part As PartDocument

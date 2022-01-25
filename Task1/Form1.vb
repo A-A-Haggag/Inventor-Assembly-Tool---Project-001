@@ -1,19 +1,17 @@
-﻿Imports Inventor
-Imports System.Runtime.InteropServices
+﻿Imports System.Runtime.InteropServices
+Imports Inventor
 
 Public Class Form1
+
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Dim inventorApp As Inventor.Application
 
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
-
-
 
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
@@ -22,7 +20,6 @@ Public Class Form1
 
         MsgBox(n & " occurences")
         MsgBox(oAssemDoc.AllReferencedDocuments.Count & " kind of parts")
-
 
         If ComboBox1.Text = ("Names") Then
             ListBox1.Items.Add(oAssemDoc.ComponentDefinition.Occurrences.Item(1).Name)
@@ -50,13 +47,13 @@ Public Class Form1
             End If
         End If
     End Sub
+
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         Dim inventorApp As Inventor.Application
 
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
@@ -92,6 +89,7 @@ Public Class Form1
         End If
 
     End Sub
+
     Public Function numberOfOcc(def As ComponentDefinition) As Integer
         Dim n As Integer = def.Occurrences.Count
 
@@ -109,7 +107,6 @@ Public Class Form1
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             ''MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
@@ -117,12 +114,10 @@ Public Class Form1
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
 
-
         Dim selpart As ComponentOccurrence
         Dim part As PartDocument
         selpart = inventorApp.CommandManager.Pick(SelectionFilterEnum.kAssemblyLeafOccurrenceFilter, "Select Part.")
         part = selpart.ReferencedDocumentDescriptor.ReferencedDocument
-
 
         MsgBox("part name:" & selpart._DisplayName)
 
@@ -144,7 +139,6 @@ Public Class Form1
         Try
             inventorApp = Marshal.GetActiveObject("Inventor.Application")
             ''MessageBox.Show("Connected with Inventor succesfully")
-
         Catch ex As Exception
             MessageBox.Show("Cannot connect to Inventor")
         End Try
@@ -152,12 +146,10 @@ Public Class Form1
         Dim oAssemDoc As AssemblyDocument
         oAssemDoc = inventorApp.ActiveDocument
 
-
         Dim selpart As ComponentOccurrence
         Dim part As String
         selpart = inventorApp.CommandManager.Pick(SelectionFilterEnum.kAssemblyLeafOccurrenceFilter, "Select Part.")
         part = selpart.ReferencedDocumentDescriptor.FullDocumentName
-
 
         'get place of\ in path
         'Dim oSource As String = part
@@ -168,7 +160,6 @@ Public Class Form1
         MsgBox(FilePath(part))
         MsgBox(BaseFilename(part))
         MsgBox(FileExtension(part))
-
 
     End Sub
 
@@ -209,4 +200,5 @@ Public Class Form1
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
         System.Diagnostics.Process.Start("https://enerfacprojects.com/")
     End Sub
+
 End Class
